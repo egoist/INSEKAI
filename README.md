@@ -1,6 +1,8 @@
 # insekai-server
 
-Tag based forum software for hentai 🙃 (API part).
+Tag based forum software for hentai (API part).
+
+![wow](http://i.giphy.com/UNpeAPM67tZMA.gif)
 
 ## Generating RSA keys
 
