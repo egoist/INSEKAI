@@ -1,6 +1,13 @@
 # insekai-server
 
-Tag based forum software for the youth (API part).
+Tag based forum software for hentai 🙃 (API part).
+
+## Generating RSA keys
+
+```bash
+$ openssl genrsa -out demo.rsa 1024 # the 1024 is the size of the key we are generating
+$ openssl rsa -in demo.rsa -pubout > demo.rsa.pub
+```
 
 ## License
 
